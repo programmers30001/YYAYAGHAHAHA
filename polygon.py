@@ -1,4 +1,4 @@
-
+import pygame
 class Polygon:
     def __init__(self, sides, color,screen):
         self.sides = sides
